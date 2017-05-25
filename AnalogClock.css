@@ -1,0 +1,45 @@
+.ClockOutline
+{
+    fill: white;
+    stroke: black;
+}
+
+.ClockCenter
+{
+    fill: black;
+}
+
+.HourHand
+{
+    fill: black;
+}
+
+.MinuteHand
+{
+    fill: black;
+}
+
+.SecondHand
+{
+    fill: black;
+}
+
+.Time_12
+{
+    font-family:Arial
+}
+
+.Time_3
+{
+    font-family:Arial
+}
+
+.Time_6
+{
+    font-family:Arial
+}
+
+.Time_9
+{
+    font-family:Arial
+}
